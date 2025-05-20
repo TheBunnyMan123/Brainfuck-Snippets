@@ -7,7 +7,7 @@
     ,[
         # Check for negative 1 EOF
         # and newline
-        -[---------[<<<<<
+        +[-----------[<<<<<
             # copy cell 2 into cells 3 and 4
             [->+>+<<]
             
